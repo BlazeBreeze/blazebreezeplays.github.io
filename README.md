@@ -28,7 +28,7 @@ I enjoy creating content, improving my technical abilities, and contributing to 
 
 ## 🎬 Video Editing
 
-* Creating gaming edits and montages
+* Creating Insane Anime AMV's And Bussines AMV's OR Intro's
 * Working with transitions, effects, and clips
 * Continuously improving editing techniques
 
