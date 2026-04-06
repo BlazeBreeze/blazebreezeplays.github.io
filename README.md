@@ -59,6 +59,7 @@ I enjoy creating content, improving my technical abilities, and contributing to 
 ## 💬 Community
 
 🔗 https://discord.gg/KumAXpT7
+[![Store](https://img.shields.io/badge/🛒%20PleiadesMC%20Store-purple?style=for-the-badge)](https://store.pleiadesmc.space)
 
 ---
 
