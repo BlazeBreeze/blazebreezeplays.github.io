@@ -28,7 +28,7 @@ I enjoy creating content, improving my technical abilities, and contributing to 
 
 ## 🎬 Video Editing
 
-* Creating Insane Anime AMV's And Bussines AMV's OR Intro's
+* Creating Insane Anime AMV's
 * Working with transitions, effects, and clips
 * Continuously improving editing techniques
 
@@ -67,6 +67,7 @@ I enjoy creating content, improving my technical abilities, and contributing to 
 
 📸 https://instagram.com/BlazeBreezePlays
 💬 blazebreezeplays
+Dm Me On Either OF These Apps For Any Editing Jog.
 
 ---
 
