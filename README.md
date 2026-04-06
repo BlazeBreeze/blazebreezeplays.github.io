@@ -1,79 +1,78 @@
-
 # 🔥 BlazeBreezePlays
 
-🎮 Gamer | 🎬 Video Editor | 📈 Digital Marketing Learner | 💻 Coding Enthusiast
+<p align="center">
+  🎮 Gamer • 🎬 Video Editor • 📈 Digital Marketing • 💻 Coding
+</p>
 
-Welcome to my official GitHub page! This is where I showcase my projects, skills, and everything I’m building as a creator.
+---
+
+## 🚀 About Me
+
+I’m **BlazeBreezePlays**, a passionate gamer and creator focused on building skills in video editing, digital marketing, and coding.
+I enjoy creating content, improving my technical abilities, and contributing to online communities.
 
 ---
 
 ## 🎮 Gaming
 
-I play and create content around:
-
 * 🧱 Minecraft
 * 🔫 Fortnite
 * 🎲 Roblox
 
-### 🛡️ Server Role
+### 🛡️ Role
 
 * Staff Member at **PleiadesMC**
-* Helping manage, moderate, and improve the community experience
+* Supporting and managing community activities
 
 ---
 
 ## 🎬 Video Editing
 
 * Creating gaming edits and montages
-* Working with effects, transitions, and clips
-* Always improving editing skills and style
+* Working with transitions, effects, and clips
+* Continuously improving editing techniques
 
 ---
 
 ## 💻 Coding
 
-* Learning and building projects
-* Interested in websites, tools, and creative tech
-* Using GitHub to store and share my work
+* Learning web development and tools
+* Building small projects and websites
+* Exploring creative tech
 
 ---
 
 ## 📈 Digital Marketing
 
-* Learning how to grow online
-* Exploring content strategy and engagement
+* Learning content growth strategies
+* Exploring audience engagement
 * Building a personal brand
 
 ---
 
 ## 🌐 Website
 
-🚀 My official website:
-https://blazebreezeplays.github.io
+🔗 https://blazebreezeplays.github.io
 
 ---
 
-## 🔥 Community
+## 💬 Community
 
-💬 Join my Discord server:
-https://discord.gg/KumAXpT7
-
----
-
-## 🔥 Goals
-
-* Grow as a content creator 🎥
-* Improve coding & tech skills 💻
-* Build a strong gaming community 🎮
-* Create high-quality content consistently
+🔗 https://discord.gg/KumAXpT7
 
 ---
 
 ## ⚡ Connect With Me
 
-📸 Instagram:
-https://instagram.com/BlazeBreezePlays
+📸 https://instagram.com/BlazeBreezePlays
+💬 blazebreezeplays
 
-💬 Discord:
-blazebreezeplays
+---
+
+## 🎯 Goals
+
+* Improve skills in editing and coding
+* Grow as a creator
+* Build a strong gaming community
+* Create high-quality content consistently
 
