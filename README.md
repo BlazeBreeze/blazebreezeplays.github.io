@@ -71,4 +71,9 @@ https://discord.gg/KumAXpT7
 
 ## ⚡ Connect With Me
 
-More links coming soon...
+📸 Instagram:
+https://instagram.com/BlazeBreezePlays
+
+💬 Discord:
+blazebreezeplays
+
