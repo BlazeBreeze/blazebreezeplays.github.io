@@ -2,44 +2,67 @@
 <html>
 <head>
   <title>BlazeBreezePlays</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <style>
     body {
       margin: 0;
-      height: 100vh;
-      font-family: Arial;
+      font-family: Arial, sans-serif;
       text-align: center;
-      
-      /* 🔥 Gradient Background */
-      background: linear-gradient(135deg, purple, skyblue, white);
-      color: black;
+      color: white;
+
+      /* 🔥 Purple + Blue Gradient */
+      background: linear-gradient(135deg, #6a0dad, #00bfff, #ffffff);
+      height: 100vh;
     }
 
     h1 {
+      margin-top: 80px;
       font-size: 50px;
-      margin-top: 50px;
-      color: #4b0082;
+      color: #2e0057;
     }
 
     p {
       font-size: 20px;
+      color: black;
     }
 
-    .box {
-      background: rgba(255, 255, 255, 0.6);
-      padding: 20px;
+    .card {
+      background: rgba(255, 255, 255, 0.7);
+      padding: 25px;
       margin: 30px auto;
       width: 60%;
       border-radius: 15px;
     }
+
+    .btn {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 20px;
+      background: purple;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      background: #4b0082;
+    }
   </style>
 </head>
+
 <body>
 
   <h1>🔥 BlazeBreezePlays</h1>
 
-  <div class="box">
+  <div class="card">
     <p>🎮 Minecraft | Fortnite | Roblox</p>
     <p>🎬 Video Editing | 📈 Digital Marketing | 💻 Coding</p>
+
+    <a class="btn" href="https://discord.gg/KumAXpT7">💬 Discord</a>
+    <a class="btn" href="https://store.pleiadesmc.space">🛒 Store</a>
+    <a class="btn" href="https://instagram.com/BlazeBreezePlays">📸 Instagram</a>
   </div>
 
 </body>
