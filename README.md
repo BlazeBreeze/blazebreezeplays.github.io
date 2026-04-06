@@ -1,5 +1,4 @@
-BlazeBreezePlays
-BlazeBreezePlays 🎮 | Gaming (Minecraft, Fortnite, Roblox) | Video Editing 🎬 | Digital Marketing 📈 | Coding 💻
+
 # 🔥 BlazeBreezePlays
 
 🎮 Gamer | 🎬 Video Editor | 📈 Digital Marketing Learner | 💻 Coding Enthusiast
